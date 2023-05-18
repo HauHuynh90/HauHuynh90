@@ -16,6 +16,7 @@
      <img src="Dean Spring 2022.png" alt="Dean's List" width="200" height="200">
    
    + Fall 2022
+   
      <img src="Dean Fall 2022.jpg" alt="Dean's List" width="200" height="200">
    
    + Spring 2023
