@@ -12,7 +12,7 @@
 
 ## Adward: 
 - Dean's List from University of North Alabama - Sanders College of Business and Technology
-   + Spring 2022 <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+   + Spring 2022  <img src="PHP Certificate.jpg" alt="Girl in a jacket" width="500" height="600">
    + Fall 2022
    + Spring 2023
 
