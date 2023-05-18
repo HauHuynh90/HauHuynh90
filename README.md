@@ -5,12 +5,10 @@
 - 💼 Graduated at [Houston Community College](https://www.hccs.edu/) with Degree Computer Systems Networking - Microsoft Server Administration Specialization
 - 💼 Graduated at [University of North Alabama](https://una.edu/) with Degree BBA Computer Information Systems
 
-## Certification of Completion
+## Certification of Completion & Dean's List
 - Microsoft Server Administration
 - Cisco Certified Network Associate
 - PHP Certification
-
-## Adward: 
 - Dean's List from University of North Alabama - Sanders College of Business and Technology
    + Spring 2022  
      <img src="Dean Spring 2022.png" alt="Dean's List" width="200" height="200">
