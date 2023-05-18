@@ -13,7 +13,7 @@
 ## Adward: 
 - Dean's List from University of North Alabama - Sanders College of Business and Technology
    + Spring 2022  
-   <img src="Dean Spring 2022.png" alt="Dean's List" width="200" height="200">
+     <img src="Dean Spring 2022.png" alt="Dean's List" width="200" height="200">
    
    + Fall 2022
    <img src="Dean Fall 2022.png" alt="Dean's List" width="200" height="200">
