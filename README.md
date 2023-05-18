@@ -1,9 +1,9 @@
 ### Hi, I'm HauHuynh 👋
 
 ## Introduction:
-- 💼 Graduating at Houston Community College in Texas with Degree Computer Systems Networking - Microsoft Server Administration Specialization
+- 💼 Graduating at [Houston Community College](https://www.hccs.edu/) with Degree Computer Systems Networking - Microsoft Server Administration Specialization
 - 💼 Graduating at [University of North Alabama](https://una.edu/) with Degree BBA Computer Information Systems
-- 
+
 ## Certification of Completion
 - Microsoft Server Administration
 - Cisco Certified Network Associate
