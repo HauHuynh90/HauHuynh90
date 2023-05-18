@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, I'm HauHuynh 👋
+
+## Introduction:
+- 💼 Graduating at University of North Alabama [University of North Alabama](https://una.edu/) with Degree BBA Computer Information Systems
+- 
+- my Double Degree BBA Computer Information Systems and BS Information Technology in Cybersecurity at [University of North Alabama](https://una.edu/).
+- 🤔 My interests are Software Engineering and Entrepreneurship.
+- ✍️ I am blogging at [KHOI | Blog](https://blog.khoiuna.info/).
+- 🎥 I have a YouTube channel called [Tech & Startups](https://www.youtube.com/channel/UCo3A3_8jiHnepCQnb9aBtjQ?sub_confirmation=true).
+
+
+
 
 - 🔧 I'm currently employed as a Delivery Specialist for O'Reilly Auto Parts.
 - 🔭 I’m working towards finishing my college career, obtaining a PHP certification (as well as others), and securing long-term employment.
