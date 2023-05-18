@@ -21,7 +21,7 @@
 - I’m planning to continue the MBA degree as well as others to secure long-term employment.
 - I’m currently learning Angular, Vue.js, software architecture, and web scraping.
 
-#### Experience with:
+## Experience with:
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,cs,codepen,css,heroku,docker,eclipse,express,gcp,git,github,html,java,js,jquery,linux,md,mongodb,mysql,nodejs,php,powershell,pr,py,replit,selenium,visualstudio,vscode,&perline=16&theme=dark)](https://skillicons.dev)
 
 # 📫 Connect with me:
