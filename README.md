@@ -14,6 +14,7 @@
 - Dean's List from University of North Alabama - Sanders College of Business and Technology
    + Spring 2022  
    <img src="Dean Spring 2022.png" alt="Dean's List" width="300" height="300">
+   
    + Fall 2022
    + Spring 2023
 
