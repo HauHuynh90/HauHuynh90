@@ -2,8 +2,8 @@
 - Pronounce : How-Hyun
 
 ## Introduction:
-- 💼 Graduating at [Houston Community College](https://www.hccs.edu/) with Degree Computer Systems Networking - Microsoft Server Administration Specialization
-- 💼 Graduating at [University of North Alabama](https://una.edu/) with Degree BBA Computer Information Systems
+- 💼 Graduated at [Houston Community College](https://www.hccs.edu/) with Degree Computer Systems Networking - Microsoft Server Administration Specialization
+- 💼 Graduated at [University of North Alabama](https://una.edu/) with Degree BBA Computer Information Systems
 
 ## Certification of Completion
 - Microsoft Server Administration
