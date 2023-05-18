@@ -9,10 +9,13 @@
 - Cisco Certified Network Associate
 - PHP Certification
 
+## Adward: 
+- Dean's List from University of North Alabama - Sanders College of Business and Technology
+
 ## ⚡ Fun fact:
-- 🤔 My interests are Web Development.
+- My interests are Web Development.
 - I’m planning to continue the MBA degree as well as others to secure long-term employment.
-- 🌱 I’m currently learning Angular, Vue.js, software architecture, and web scraping.
+- I’m currently learning Angular, Vue.js, software architecture, and web scraping.
 
 #### Experience with:
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,cs,codepen,css,discord,docker,eclipse,express,gcp,git,github,html,java,js,jquery,linkedin,linux,md,mongodb,mysql,nodejs,php,powershell,pr,py,replit,selenium,twitter,visualstudio,vscode,&perline=16&theme=dark)](https://skillicons.dev)
