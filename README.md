@@ -25,5 +25,5 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,cs,codepen,css,discord,docker,eclipse,express,gcp,git,github,html,java,js,jquery,linkedin,linux,md,mongodb,mysql,nodejs,php,powershell,pr,py,replit,selenium,twitter,visualstudio,vscode,&perline=16&theme=dark)](https://skillicons.dev)
 
 # Connect with me:
-The best way to reach me is by [my email](mailto:huynhanhhau90@gmail.com).
+The best way to reach me is by [My Email](mailto:huynhanhhau90@gmail.com).
 
