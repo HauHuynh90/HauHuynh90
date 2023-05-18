@@ -16,7 +16,10 @@
    <img src="Dean Spring 2022.png" alt="Dean's List" width="300" height="300">
    
    + Fall 2022
+   <img src="Dean Spring 2022.png" alt="Dean's List" width="300" height="300">
+   
    + Spring 2023
+   <img src="Dean Spring 2022.png" alt="Dean's List" width="300" height="300">
 
 ## ⚡ Fun fact:
 - My interests are Web Development.
