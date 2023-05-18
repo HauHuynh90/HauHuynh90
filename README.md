@@ -11,6 +11,9 @@
 
 ## Adward: 
 - Dean's List from University of North Alabama - Sanders College of Business and Technology
+   + Spring 2022
+   + Fall 2022
+   + Spring 2023
 
 ## ⚡ Fun fact:
 - My interests are Web Development.
