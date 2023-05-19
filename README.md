@@ -10,7 +10,7 @@
 - Cisco Certified Network Associate
 - PHP Certification
 - Dean's List from University of North Alabama - Sanders College of Business and Technology
-   + Spring 2022  
+   + Spring 2022  [Dean's List](<img src="Dean Spring 2022" alt="" width="200" height="200">).
    + Fall 2022
    + Spring 2023
 
