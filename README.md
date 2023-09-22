@@ -1,5 +1,5 @@
 ### Hi, I'm HauHuynh 👋
-- Pronounce : How-Hyun
+- Pronounce: How-Hyun
 
 ## Introduction:
 - 💼 Graduated at [Houston Community College](https://www.hccs.edu/) with Degree Computer Systems Networking - Microsoft Server Administration Specialization
@@ -9,14 +9,13 @@
 - Microsoft Server Administration
 - Cisco Certified Network Associate
 - PHP Certification
-- Dean's List from University of North Alabama - Sanders College of Business and Technology
+- Dean's List from the University of North Alabama - Sanders College of Business and Technology
    + Spring 2022
    + Fall 2022
    + Spring 2023
 
 ## ⚡ Fun fact:
-- My interests are Web Development.
-- I’m planning to continue the MBA degree as well as others to secure long-term employment.
+- My interest is Web Development.
 - I’m currently learning Angular, Vue.js, software architecture, and web scraping.
 
 ## Experience with:
